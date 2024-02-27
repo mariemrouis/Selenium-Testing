@@ -1,0 +1,6 @@
+Working Principle of Selenium IDE
+The functioning of Selenium IDE is centered around three primary actions, described as follows:
+
+Record: Using a browser extension, Selenium IDE allows users to capture their interactions within a web application. This feature logs user activities like clicking buttons, entering text, and navigating through pages.
+Playback: After creating the test script, the recorded script can be replayed to automate testing. During this phase, Selenium IDE runs the script, engaging with the browser to replicate the recorded user actions.
+Save: The test script that has been recorded can be stored for later usage. These test case scripts are saved with the .side file extension, ensuring they can be reused for future test runs.
